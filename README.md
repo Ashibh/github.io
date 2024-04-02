@@ -32,6 +32,11 @@ decisions and drive business success.
 
 ## PROJECTS 
 ### Project 1: Forecasting Healthcare Utilization on Patients and the Healthcare System
+- (https://github.com/Ashibh/Healthcare-Analysis)
 
 ### Project 2: Sales Data Analysis 
+- (https://github.com/Ashibh/sales_tableau)
+
+### Project 3: HR Dashboard Power BI 
+- (https://github.com/Ashibh/Hr-Dashboard-Power-Bi)
 
