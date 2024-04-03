@@ -31,7 +31,7 @@ decisions and drive business success.
 - Completed bachelor’s degree studies with a strong academic performance. Program coursework encompassed a comprehensive understanding of computer systems, programming languages like C++, software development, data structures, and database management systems(MySql). 
 
 ## PROJECTS 
-### Project 1: Forecasting Healthcare Utilization on Patients and the Healthcare System (https://github.com/Ashibh/Healthcare-Analysis-Python_tableau)
-### Project 2: Sales Data Analysis (https://github.com/Ashibh/sales_tableau_sql)
-### Project 3: HR Dashboard Power BI  (https://github.com/Ashibh/Hr-Dashboard-Power-Bi)
+### Project 1: Forecasting Healthcare Utilization on Patients and the Healthcare System [Project Website](https://github.com/Ashibh/Healthcare-Analysis-Python_tableau)
+### Project 2: Sales Data Analysis [Project Website](https://github.com/Ashibh/sales_tableau_sql)
+### Project 3: HR Dashboard Power BI  [Project Website](https://github.com/Ashibh/Hr-Dashboard-Power-Bi)
 
